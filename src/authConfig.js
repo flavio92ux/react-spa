@@ -15,7 +15,7 @@ export const msalConfig = {
     auth: {
         clientId: "efec7b43-662d-4cf7-9830-74febce60b87",
         authority: "https://login.microsoftonline.com/4198ecdb-379e-4e6d-8ae3-b710a7e51541",
-        redirectUri: "https://react-spa-ebon.vercel.app",
+        redirectUri: "https://8fbd-2804-d45-d90c-9900-1ca1-b2aa-3e46-b0db.ngrok-free.app",
     },
     cache: {
         cacheLocation: "sessionStorage", // This configures where your cache will be stored

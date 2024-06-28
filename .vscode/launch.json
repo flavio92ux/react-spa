@@ -7,6 +7,13 @@
     {
       "type": "chrome",
       "request": "launch",
+      "name": "Launch Chrome against ngrok",
+      "url": "https://8fbd-2804-d45-d90c-9900-1ca1-b2aa-3e46-b0db.ngrok-free.app",
+      "webRoot": "${workspaceFolder}"
+    },
+    {
+      "type": "chrome",
+      "request": "launch",
       "name": "Launch Chrome against localhost",
       "url": "http://localhost:3000",
       "webRoot": "${workspaceFolder}"
